@@ -282,7 +282,7 @@
 .fi-ta-ctn {
     border: 1px solid var(--theme-border);
     box-shadow: none;
-    overflow: hidden;
+    overflow: visible;
 }
 
 .fi-ta-header,
